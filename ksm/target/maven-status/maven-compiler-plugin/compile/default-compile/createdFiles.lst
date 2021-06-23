@@ -1,0 +1,12 @@
+com\ksm\ksm\services\PersonService.class
+com\ksm\ksm\config\RestConfig.class
+com\ksm\ksm\models\Belonging.class
+com\ksm\ksm\models\Person.class
+com\ksm\ksm\services\BelongingService$2.class
+com\ksm\ksm\controllers\PersonController.class
+com\ksm\ksm\services\BelongingService.class
+com\ksm\ksm\services\PersonService$1.class
+com\ksm\ksm\KsmApplication.class
+com\ksm\ksm\services\BelongingService$1.class
+com\ksm\ksm\controllers\BelongingController.class
+com\ksm\ksm\services\PersonService$2.class
